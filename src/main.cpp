@@ -4,6 +4,7 @@
 
 //0 - 5 pines que tiene la placa DigiPark
 // 3 y 4 son para USB
+//los pines se llaman PINx
 const int red = PIN0;
 const int yellow = PIN1;
 const int green = PIN2;
