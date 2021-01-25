@@ -11,7 +11,6 @@ const int green = PIN2;
 
 void setup()
 {
-  
   pinMode(red, OUTPUT);
   pinMode(yellow, OUTPUT);
   pinMode(green, OUTPUT);
